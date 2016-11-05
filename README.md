@@ -10,6 +10,7 @@ The dataset includes the following files:
 
 - 'README.txt'
 
-- 'codebook.txt': Shows information about the variables used on the feature vector.
-
 - 'run_analysis.R' : Script to create a tidy dataset containing mean and std measurements of all variables in the original dataset for all subjects per activity
+
+
+- 'codebook.txt': Shows information about the tidy data that the above scripts creates, the variables and it's measurements units
